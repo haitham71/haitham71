@@ -71,5 +71,5 @@
   <img src="https://img.shields.io/badge/SQL%20Injection-8B0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/XSS-FF4500?style=for-the-badge">
   <img src="https://img.shields.io/badge/CSRF-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/eJPT%20Learning-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PT%20Learning-0A66C2?style=for-the-badge">
 </p>
