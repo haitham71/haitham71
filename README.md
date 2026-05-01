@@ -132,17 +132,7 @@
 <hr>
 
 
-<h2>GitHub Stats</h2>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=haitham71&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitham71&layout=compact&theme=tokyonight" alt="Top Languages">
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haitham71&theme=tokyonight">
 
 <hr>
 
