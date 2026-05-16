@@ -77,9 +77,6 @@
 <p>
   <img src="https://img.shields.io/badge/Web%20Security-222222?style=for-the-badge">
   <img src="https://img.shields.io/badge/Vulnerability%20Analysis-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/XSS-FF4500?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSRF-555555?style=for-the-badge">
 </p>
 
 <hr>
